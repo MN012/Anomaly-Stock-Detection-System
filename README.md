@@ -6,7 +6,7 @@ Predicting next-day returns for Ford Motor Company stock using Z-scores, Isolati
 
 <img width="1489" height="1190" alt="image" src="https://github.com/user-attachments/assets/b2ba82c1-d53f-45c0-840d-dbc240ea4a1d" />
 
-# This above is the plotted result of the Z-score, Isolation Forest and Residual Anomaly Detection
+### This above is the plotted result of the Z-score, Isolation Forest and Residual Anomaly Detection
 
 
 - **Information Coefficient**: 0.072
