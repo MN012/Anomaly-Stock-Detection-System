@@ -1,14 +1,11 @@
 # Anomaly Stock Detection System
 
-Predicting next-day returns for Ford Motor Company stock using Z-scores, Isolation Forest and LSTM neural networks.
+Predicting next-day returns for Ford Motor Company stock using Z-scores, Isolation Forest, residual and LSTM neural networks.
 
 ## Results
 
 <img width="1489" height="1190" alt="image" src="https://github.com/user-attachments/assets/b2ba82c1-d53f-45c0-840d-dbc240ea4a1d" />
-This above is the plotted result of the Z-score.
-
-<img width="1489" height="1190" alt="image" src="https://github.com/user-attachments/assets/4dc16d9f-5498-4330-bfd6-f4ad9cd65bc2" />
-This above is the plotted result of the Isolated Forest
+This above is the plotted result of the Z-score, Isolation Forest and Residual Anomaly Detection
 
 - **Information Coefficient**: 0.072
 - **Sharpe Ratio**: 0.37
